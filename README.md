@@ -15,19 +15,8 @@ This repository contains the code (Python/JAX notebooks) and figures accompanyin
 
 ### Figures
 - `figures/paper/`  
-  Figures used in the main manuscript (typically reporting $R_A$).
+  Figures used in the main manuscript (typically reporting $R_A$) for the two examples.
+
 
 - `figures/supplementary/`  
   Additional diagnostics reported in the Supplementary Material (e.g. panels for $R_B$, $R_E$, and $R_A$).
-
-Recommended naming scheme:
-- Paper: `fig_sigma_mean_RA.pdf`, `fig_sigma_max_RA.pdf`, `fig_tau_mean_RA.pdf`, `fig_tau_max_RA.pdf`
-- Supplementary: `fig_sigma_mean_all.pdf`, `fig_sigma_max_all.pdf`, `fig_tau_mean_all.pdf`, `fig_tau_max_all.pdf`
-
-## Installation
-
-### Option A — Conda (recommended)
-
-```bash
-conda env create -f environment.yml
-conda activate bap
