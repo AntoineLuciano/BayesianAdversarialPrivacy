@@ -27,23 +27,22 @@ This repository contains the code (Python/JAX notebooks) and figures accompanyin
 
 You can either use a Python virtual environment (`venv`) or a Conda environment.  
 The notebooks are tested with **Python 3.10.13**.
+## Installation
 
-### Option 1: Python `venv` (Python 3.10.13 recommandé)
+### Option 1: Python `venv` (Python 3.10.13 recommended)
 
-Avec **pyenv** (pour forcer Python 3.10.13 dans ce dossier) :
+Using **pyenv** (to enforce Python 3.10.13 in this directory):
 
 ```bash
 pyenv local 3.10.13
 python -m venv .venv
 source .venv/bin/activate  # macOS / Linux
-# Sur Windows :
+# On Windows:
 # .venv\Scripts\activate
 
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
-
-Sans pyenv, si `python3.10` est déjà dans le PATH : remplacer `python` par `python3.10` pour créer le venv.
 
 ### Option 2: Conda environment
 
