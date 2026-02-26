@@ -27,7 +27,6 @@ This repository contains the code (Python/JAX notebooks) and figures accompanyin
 
 You can either use a Python virtual environment (`venv`) or a Conda environment.  
 The notebooks are tested with **Python 3.10.13**.
-## Installation
 
 ### Option 1: Python `venv` (Python 3.10.13 recommended)
 
