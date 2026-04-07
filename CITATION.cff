@@ -1,7 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the paper below."
 title: "Bayesian Adversarial Privacy"
-type: article
 authors:
   - family-names: Bell
     given-names: Cameron
@@ -10,17 +9,30 @@ authors:
   - family-names: Luciano
     given-names: Antoine
   - family-names: Robert
-    given-names: Christian P
-date-released: "2026-03-06"
-year: 2026
-url: "https://arxiv.org/abs/2603.04199"
-identifiers:
-  - type: other
-    value: "arXiv:2603.04199"
-    description: "arXiv preprint"
+    given-names: "Christian P"
+date-released: 2026-03-06
+url: "https://github.com/AntoineLuciano/BayesianAdversarialPrivacy"
 keywords:
   - Bayesian decision theory
   - data privacy
   - privacy-utility trade-off
   - statistical disclosure control
   - differential privacy
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Bell
+      given-names: Cameron
+    - family-names: Johnston
+      given-names: Timothy
+    - family-names: Luciano
+      given-names: Antoine
+    - family-names: Robert
+      given-names: "Christian P"
+  title: "Bayesian Adversarial Privacy"
+  year: 2026
+  url: "https://arxiv.org/abs/2603.04199"
+  identifiers:
+    - type: other
+      value: "arXiv:2603.04199"
+      description: "arXiv preprint"
