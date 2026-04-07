@@ -1,4 +1,4 @@
-# Bayesian Adversarial Privacy (BAP)
+# Bayesian Adversarial Privacy
 
 This repository contains the code (Python/JAX notebooks) and figures accompanying the paper **"Bayesian Adversarial Privacy"**.
 
