@@ -3,7 +3,7 @@
 This repository contains the code (Python/JAX notebooks) and figures accompanying the paper **"Bayesian Adversarial Privacy"**.
 
 <p align="center">
-  <img src="figures/bap_framework.png" alt="BAP Framework" width="800"/>
+  <img src="figures/bap_framework_white.png" alt="BAP Framework" width="800"/>
 </p>
 
 ## Contents
