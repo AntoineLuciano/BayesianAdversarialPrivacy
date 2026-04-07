@@ -1,5 +1,5 @@
 numpy==2.2.6
-ipykernel
+ipykernel==6.29.5
 jax==0.6.2
 jaxlib==0.6.2
 matplotlib==3.10.8

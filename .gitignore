@@ -6,3 +6,5 @@ __pycache__/
 .DS_Store
 /paper/
 /extensions/
+tstex_modules/
+test/

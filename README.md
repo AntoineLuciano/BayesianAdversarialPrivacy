@@ -25,6 +25,19 @@ This repository contains the code (Python/JAX notebooks) and figures accompanyin
 ### Tables
 - Tables used in the paper.
 
+## Reproducing the results
+
+After installation, launch Jupyter and run the notebooks:
+
+```bash
+jupyter notebook notebooks/
+```
+
+- **`example1_cointoss.ipynb`**: runs in a few seconds (exact arithmetic + LP).
+- **`example2_gaussian.ipynb`**: runs in a few minutes (JAX numerical integration over 6 release mechanisms).
+
+Figures are saved to `figures/` and tables to `tables/`.
+
 ## Installation
 
 You can either use a Python virtual environment (`venv`) or a Conda environment.
